@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "15492b9a-a819-4859-bccb-9de6d16a424c"
+      }
+    },
+    "android": {
+      "package": "com.alex_ander.doctrackmobile"
+    }
+  }
+}
